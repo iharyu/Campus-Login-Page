@@ -1,2 +1,2 @@
-# Campus Login
- This is just a Campus login form designed using HTML and CSS
+# Campus Login Page
+ This is just a Campus login form I designed using HTML and CSS.
